@@ -56,4 +56,4 @@ Installation instructions
 
 <br><br>
 
-# Notebooks/scripts
+# Notebooks
