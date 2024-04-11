@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/.svg)](https://doi.org/10.5281/zenodo.)
 
 ## Authors
-Yuexuan Li<sup>1,2</sup>, Gustavo Santana<sup>1,3</sup>, Zhong-Wu Liu<sup>*2</sup>, Xiao-Bing Gao<sup>2</sup>, Marcelo O.Dietrich<sup>1,2,3*</sup>
+Yuexuan Li<sup>1,2</sup>, Gustavo Santana<sup>1,3</sup>, Zhong-Wu Liu<sup>2</sup>, Xiao-Bing Gao<sup>2</sup>, Marcelo O.Dietrich<sup>*1,2,3</sup>
 
 <br>
 
