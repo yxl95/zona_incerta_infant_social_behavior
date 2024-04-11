@@ -52,7 +52,7 @@ Installation instructions
 # Data
 
 1. Demo data provided for each figure.
-2. Download data form Zenodo [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/10.5281/zenodo.).
+2. Download data from Zenodo [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/10.5281/zenodo.).
 
 <br><br>
 
