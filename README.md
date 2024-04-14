@@ -1,6 +1,6 @@
 # Neurons for infant social bonding in the mouse zona incerta
 
-[![DOI](https://zenodo.org/.svg)](https://doi.org/10.5281/zenodo.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10962543.svg)](https://doi.org/10.5281/zenodo.10962543)
 
 ## Authors
 Yuexuan Li<sup>1,2</sup>, Gustavo Santana<sup>1,3</sup>, Zhong-Wu Liu<sup>2</sup>, Xiao-Bing Gao<sup>2</sup>, Marcelo O.Dietrich<sup>*1,2,3</sup>
@@ -51,9 +51,14 @@ Installation instructions
 
 # Data
 
-1. Demo data provided for each figure.
-2. Download data from Zenodo [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/10.5281/zenodo.).
+1. Demo data provided in the notebook folder.
+2. Download data from Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10962543.svg)](https://doi.org/10.5281/zenodo.10962543).
 
 <br><br>
 
 # Notebooks
+
+1. For each notebook, first update file path to data.
+2. Next, check the versions of packages for reproductivity before running notebooks.
+
+<br><br><br>
