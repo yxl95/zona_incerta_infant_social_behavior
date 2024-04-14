@@ -31,9 +31,9 @@ Installation instructions
 1. Install Miniconda on your machine https://docs.anaconda.com/free/miniconda/. On Mac you can use these commands in the terminal.
 
                mkdir -p ~/miniconda3
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
-bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
-rm -rf ~/miniconda3/miniconda.sh
+               curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
+               bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+               rm -rf ~/miniconda3/miniconda.sh
 
 3. Install jupyterlab in the base environment with `nb_conda_kernel`
 
