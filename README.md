@@ -30,21 +30,19 @@ Installation instructions
 
 1. Install Miniconda on your machine https://docs.anaconda.com/free/miniconda/. On Mac you can use these commands in the terminal.
 
-		mkdir -p ~/miniconda3
-    curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
-    bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
-    rm -rf ~/miniconda3/miniconda.sh
-2. Install jupyterlab in the base environment with `nb_conda_kernel`
+mkdir -p ~/miniconda3
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm -rf ~/miniconda3/miniconda.sh
+3. Install jupyterlab in the base environment with `nb_conda_kernel`
 
 		conda install jupyter
 		
-3. Once Miniconda is installed create the environment used for nearly all notebooks in this repository by running from the command line.
+4. Once Miniconda is installed create the environment used for nearly all notebooks in this repository by running from the command line.
 
 		conda create -n env python=3.10
 		conda activate env
-4. Install the library needed to run the code by running `pip install -e .` while in the `env` environment.
-
-#install the environments specified in `.yaml`, maybe for umap?
+5. Install the library needed to run the code by running `pip install -e .` while in the `env` environment.
 
 
 <br><br>
