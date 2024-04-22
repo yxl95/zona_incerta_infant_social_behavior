@@ -3,16 +3,14 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10962543.svg)](https://doi.org/10.5281/zenodo.10962543)
 
 ## Authors
-Yuexuan Li<sup>1,2</sup>, Gustavo Santana<sup>1,3</sup>, Zhong-Wu Liu<sup>2</sup>, Xiao-Bing Gao<sup>2</sup>, Marcelo O.Dietrich<sup>*1,2,3</sup>
+Yuexuan Li<sup>1,2</sup>, Zhong-Wu Liu<sup>2</sup>, Gustavo Santana<sup>1,3</sup>, Ana Marta Capaz <sup>4</sup>, Etienne Doumazane <sup>4</sup>,Xiao-Bing Gao<sup>2</sup>, Nicolas Renier <sup>4</sup>, Marcelo O.Dietrich<sup>*1,2,3</sup>
 
 <br>
 
 <sup>1</sup>Laboratory of Physiology of Behavior, Department of Comparative Medicine, School of Medicine, Yale University; New Haven, 06520, United States of America<br>
 <sup>2</sup>Department of Comparative Medicine, School of Medicine, Yale University; New Haven, 06520, United States of America<br>
 <sup>3</sup>Department of Neuroscience, School of Medicine, Yale University; New Haven, 06520, United States of America<br>
-<sup>4</sup>
-<sup>5</sup>
-
+<sup>4</sup> Laboratoire de Plasticité Structurale, Sorbonne Université, ICM Paris Brain Institute, INSERM U1127, CNRS UMR7225, AP-HP, 75013 Paris, France<br>
 
 *Corresponding Author 
 
